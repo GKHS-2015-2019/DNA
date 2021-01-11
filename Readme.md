@@ -23,6 +23,8 @@ Output file name?
 $ <output_file_name.txt>
 ```
 
+[Function Descriptions](https://photos.app.goo.gl/UQPY2b1iPBEy5Zhs9)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
